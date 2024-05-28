@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-A simple TTT game in your terminal.
+Make sure to give credit if referencing and/or using my code.
